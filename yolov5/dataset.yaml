@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/indian-cars-dataset/train.txt
+val: /content/drive/MyDrive/indian-cars-dataset/val.txt
+
+nc: 1
+
+names: ['license_plate']
