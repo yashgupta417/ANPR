@@ -2,5 +2,5 @@ indian-cars-dataset
 .ipynb_checkpoints
 random-cars-dataset/annotations
 random-cars-dataset/images
-yolov5/runs
+yolov5
 mAP
